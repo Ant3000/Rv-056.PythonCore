@@ -1,0 +1,8 @@
+a = input("a =")
+print("a is", a)
+b = input("b =")
+print("b is", b)
+print("a + b =", a + b)
+print("a - b =", a - b)
+print(" a * b =", a * b)
+print("a : b =", a / b)

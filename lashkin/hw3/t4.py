@@ -16,7 +16,7 @@ if radius == 0:
     exit()
 
 #calculate
-area = pi * radius ** 2
+area = pi * radius**2
 perimetr = 2 * pi * radius
 
 area = round(area, 3)

@@ -16,7 +16,7 @@ if hight == 0 or width == 0:
 
 #calculate
 area = width * hight
-perimetr = 2 * (width + hight)
+perimetr = 2 * (width+hight)
 
 print(f'Area is {area}, perimetr is {perimetr}.')
 

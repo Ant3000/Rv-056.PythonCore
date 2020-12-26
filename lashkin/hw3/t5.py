@@ -19,7 +19,7 @@ if sideA == 0 or sideB == 0:
 
 #calculate
 
-hypotenusSqrt = sideA ** 2 + sideB ** 2
+hypotenusSqrt = sideA**2 + sideB**2
 hypotenus = math.sqrt(hypotenusSqrt)
 hypotenus = round(hypotenus, 2)
 

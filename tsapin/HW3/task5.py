@@ -11,7 +11,7 @@ triangle = {
     }
 
 # calculation
-hypotenuse = math.sqrt(triangle['a'] ** 2 + triangle['b'] ** 2)
+hypotenuse = math.sqrt(triangle['a']**2 + triangle['b']**2)
 
 # print the result
 print("The length of right triangle hypotenuse 'C' = ", hypotenuse)

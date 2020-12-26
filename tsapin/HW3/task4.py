@@ -8,7 +8,7 @@ import math
 radius = float(input("Enter the circle radius: "))
 
 # calculations
-area = math.pi * radius ** (2)
+area = math.pi * radius**(2)
 perimeter = 2 * math.pi * radius
 
 # print the result

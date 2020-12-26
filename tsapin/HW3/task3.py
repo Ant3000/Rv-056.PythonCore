@@ -9,7 +9,7 @@ rectangle = {
 
 # calculations
 area = rectangle['length'] * rectangle['width']
-perimeter = 2 * (rectangle['length'] + rectangle['width'])
+perimeter = 2 * (rectangle['length']+rectangle['width'])
 
 # print the result
 print("Area of rectangle = ", area)
